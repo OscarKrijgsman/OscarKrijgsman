@@ -15,7 +15,7 @@
 | [Strava_maps](https://github.com/OscarKrijgsman/Strava_maps) | Plotting my Strava runs on a map |
 | [OscarKrijgsman](https://github.com/OscarKrijgsman/OscarKrijgsman) | This GitHub home page |
 
-## Professional repos
+## Professional repos (Pre Neogene/AstraZeneca)
 
 | Repo | Description |
 |---|---|
