@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Oscar Krijgsman</h1>
 
-- 🔭 Associate Director Bioinformatics at **AstraZeneca**, Amsterdam. I lead a team our Bioinformatics team in the Amsterdam site (One Helix). 
+- 🔭 Associate Director Bioinformatics at **AstraZeneca**, Amsterdam. I lead our Bioinformatics team in the Amsterdam site (One Helix). 
 - 🧬 Background: PhD in cancer genomics (VUmc), postdoc in melanoma immunotherapy resistance (NKI).
 - 📫 Reach me: **oscarkrijgsman@gmail.com**
 - 🔗 [LinkedIn](https://linkedin.com/in/oscar-krijgsman-16a229152) · [Google Scholar](https://scholar.google.com/citations?user=T7osvqQAAAAJ) · [ORCID](https://orcid.org/0000-0003-0825-3291)
