@@ -13,6 +13,7 @@
 |---|---|
 | [Tech-Trackers](https://github.com/OscarKrijgsman/Tech-Trackers) | Pulls news from public RSS feeds |
 | [Strava_maps](https://github.com/OscarKrijgsman/Strava_maps) | Plotting my Strava runs on a map |
+| [MetCollection](https://github.com/OscarKrijgsman/MetCollection) | PostgreSQL database and web app for my Metallica collection |
 | [OscarKrijgsman](https://github.com/OscarKrijgsman/OscarKrijgsman) | This GitHub home page |
 
 ## Professional repos (Pre Neogene/AstraZeneca)
